@@ -1,5 +1,5 @@
 # B.TechMajorProject
-A Text Independent Writer Identification System from Handwritten Document Images
+### A Text Independent Writer Identification System from Handwritten Document Images
 
 This is my B.Tech major project. It is a GUI driven app which can identify the writer of a hand written document if the system is trained with some other written sample of the same writer. It uses SpeedUp Robust Features (SURF) and Extreme Learning Machine (ELM) for training and prediction. The app also allows to enroll a new writer's sample so that any written sample from that author can be predicted correctly in later trials. 
 
